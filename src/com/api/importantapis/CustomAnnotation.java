@@ -10,7 +10,6 @@ import java.lang.annotation.*;
  ***************************************/
 
 /*
-
     Annotation -> annotation is a way to maintain some information/to add metadata about the class, method, field, parameter, etc. to provide some extra info.
     - Built in annotations
     - Custom annotations
