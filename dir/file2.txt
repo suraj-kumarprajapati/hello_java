@@ -1,6 +1,8 @@
-Hello
-WorldHello
-WorldHello
+a
+hello
+97
 World
-Hello
-World
+true
+97
+100.0
+ end .....
